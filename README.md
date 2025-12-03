@@ -1,4 +1,4 @@
-# Soil Characterization for Hazard Mitigation and Coastal Geotechnics
+# Soil Slope Characterization for Hazard Mitigation in Coastal Areas
 
 This repository contains all the data needed to reproduce the results presented in our published project papers as follows:
 
